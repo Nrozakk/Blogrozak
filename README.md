@@ -1,2 +1,2 @@
 # Blogrozak
-blogproject
+Myroject
